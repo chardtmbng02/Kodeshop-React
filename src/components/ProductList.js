@@ -1,4 +1,4 @@
-import { Product } from './Product';
+import { Product } from '../hooks/Product';
 import './ProductList.css';
 
 export const ProductList = (props) => {
